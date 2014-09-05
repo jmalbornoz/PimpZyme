@@ -1,0 +1,37 @@
+[Breakpoint 0]
+Enabled=true
+File=Multi1.cpp
+Line=56
+Temporary=false
+
+[Breakpoint 1]
+Enabled=true
+File=sim5.cpp
+Line=100
+Temporary=false
+
+[Breakpoint 2]
+Enabled=true
+File=sim5.cpp
+Line=62
+Temporary=false
+
+[General]
+DebuggerCmdStr=
+DriverName=GDB
+FileVersion=1
+OptionsSelected=
+ProgramArgs=
+TTYLevel=7
+WorkingDirectory=
+
+[Memory]
+ColumnWidths=80,0
+NumExprs=0
+
+[Watches]
+Expr0=alpha_d
+Expr1=alpha_r
+Expr2=phase
+Expr3=a_dir
+Expr4=f

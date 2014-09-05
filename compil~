@@ -1,0 +1,3 @@
+g+++ -c -g Mono5.cpp sim6.cpp Timestep.cpp Multi4.cpp 
+g+++ Mono5.o sim6.o Timestep.o Multi4.o 
+time ./a.out
